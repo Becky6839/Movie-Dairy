@@ -12,6 +12,7 @@
 		8AB376CA1D365A10003D930D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AB376C81D365A10003D930D /* Main.storyboard */; };
 		8AB376CC1D365A10003D930D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AB376CB1D365A10003D930D /* Assets.xcassets */; };
 		8AB376CF1D365A10003D930D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AB376CD1D365A10003D930D /* LaunchScreen.storyboard */; };
+		8AB376D71D367411003D930D /* NotoSansCJKtc-hinted in Resources */ = {isa = PBXBuildFile; fileRef = 8AB376D61D367411003D930D /* NotoSansCJKtc-hinted */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8AB376CB1D365A10003D930D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8AB376CE1D365A10003D930D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8AB376D01D365A10003D930D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8AB376D61D367411003D930D /* NotoSansCJKtc-hinted */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "NotoSansCJKtc-hinted"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 			children = (
 				8AB376C31D365A10003D930D /* Movie Dairy */,
 				8AB376C21D365A0F003D930D /* Products */,
+				8AB376D61D367411003D930D /* NotoSansCJKtc-hinted */,
 			);
 			sourceTree = "<group>";
 		};
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8AB376CF1D365A10003D930D /* LaunchScreen.storyboard in Resources */,
+				8AB376D71D367411003D930D /* NotoSansCJKtc-hinted in Resources */,
 				8AB376CC1D365A10003D930D /* Assets.xcassets in Resources */,
 				8AB376CA1D365A10003D930D /* Main.storyboard in Resources */,
 			);
@@ -293,6 +297,7 @@
 				8AB376D51D365A10003D930D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
